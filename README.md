@@ -6,8 +6,8 @@ estimate likelihood that customer will churn and select the best subset of that.
 different approach for predicting customer churn and select the best one.</p>
 <p>We have used Python language throughout this project and the libraries that we have used
 includes:
-1. Pandas (for EDA)
-2. Matplotlib, Seaborn, Plotly (for better visualization)
-3. Numpy (for mathematical modeling)
-4. Scikit-learn (for different models)
-5. Imblearn (for Oversampling)</p>
+<br>1. Pandas (for EDA)
+<br>2. Matplotlib, Seaborn, Plotly (for better visualization)
+<br>3. Numpy (for mathematical modeling)
+<br>4. Scikit-learn (for different models)
+<br>5. Imblearn (for Oversampling)</p>
